@@ -1,0 +1,4 @@
+35 img/tiro1.png 1
+40 img/tiro2.png 2
+45 img/tiro3.png 3
+50 img/tiro4.png 4

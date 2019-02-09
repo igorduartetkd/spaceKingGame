@@ -1,0 +1,4 @@
+25 img/nave1.png 1 30
+20 img/nave2.png 2 30
+15 img/nave3.png 3 30
+10 img/nave4.png 4 30
