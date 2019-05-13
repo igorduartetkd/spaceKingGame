@@ -1,5 +1,4 @@
-This is a multiple players space game. You can play it with multiple players connected to your local network. 
-This game was developed for the distributed system classrooms
+This is a multiplayer game. You can play it with players connected to your local network. 
 
 
 REQUIREMENTS:
