@@ -1,3 +1,5 @@
+# bomberGame
+
 This is a multiplayer game. You can play it with players connected to your local network. 
 
 
@@ -10,14 +12,12 @@ REQUIREMENTS:
 
 
 STEPS:
- 1 - Get your ip address and put it in line 142 of server.py and in line 10 of client.py
- 2 - In terminal run: sudo pyro4-ns -n 192.168.0.4 -p 7777 (set your ip)
- 3 - Open another terminal, go to folder spaceking and run the server.py file ex: python3.5 server.py (run your python version ex: python3.6 server.py or python3.7 server.py)
- 4 - Open another terminal in your computer or another local network computer, go to folder spaceking and run the client ex: python3.5 client.py
- 5 - Chose your server room (just an integer ex: 1)
- 6 - Type your nickname
- 7 - Chose your spaceship
- 8 - Enjoy yourself! 
+
+    1 - Get your ip address and put it in line 398 of server/server.py and in line 6 of client/play.py
+    2 - In terminal run: sudo pyro4-ns -n 192.168.0.4 -p 7777 (set your ip)
+    3 - Open another terminal, go to folder bomberGame/server and run the server.py file ex: python3 server.py
+    4 - Open another terminal in your computer or another local network computer, go to folder bomberGame/client and run the play.py ex: python3 play.py
+    5 - Enjoy yourself! 
 
 contacts: 
 e-mail: igorduartetkd@gmail.com
